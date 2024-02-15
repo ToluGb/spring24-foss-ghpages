@@ -1,7 +1,7 @@
-site_name: Spring 24 Github pages
+site_name: My website
 site_description: My first Github page
 site_author: Toluwanimi Olorunnisola
-site_url: The website URL
+site_url: https://ToluGb.github.io/spring24-foss-ghpages
 
 # Repository
 repo_name: spring24-foss-ghpages
@@ -92,11 +92,6 @@ markdown_extensions:
     repo: mkdocs-material
 - pymdownx.mark
 - pymdownx.smartsymbols
-- pymdownx.superfences:
-    custom_fences:
-        - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
 - pymdownx.tabbed
 - pymdownx.tasklist:
     custom_checkbox: true
