@@ -3,4 +3,3 @@
 This is a tutorial for creating Github pages
 Text
 Text
-Text
