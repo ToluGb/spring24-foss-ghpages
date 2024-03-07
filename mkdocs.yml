@@ -52,6 +52,7 @@ icon:
 nav:
 - Home: index.md
 - About: about.md
+- Team: team.md
 
 # Extra Plugins
 plugins:
