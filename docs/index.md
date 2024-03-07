@@ -1,7 +1,5 @@
 # Home Landing Page for FOSS Spring 2024 
 
-This is my capstone project for the Data Science Fellows Program for Spring 2024.
-
 ## Learnings so far from the FOSS Sessions
 
 ### Week 1
