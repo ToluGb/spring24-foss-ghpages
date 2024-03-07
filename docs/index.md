@@ -20,7 +20,7 @@
 
 ### Week 4
 
-* We talked about documentation and communication with GitHub. I have been using GitHub for years but did not know how to create a website with GitHub Pages. Michele put us through the process of building a GitHub Pages Website using MkDocs. I am glad I learned this and look forward to building on it.
+* I learned about documentation and communication with GitHub. I have been using GitHub for years but did not know how to create a website with GitHub Pages. Michele put us through the process of building a GitHub Pages Website using MkDocs. I am glad I learned this and look forward to building on it.
 
 ### Week 5
 * I learned about version control, particularly how the Git version control. I had a hands-on session which was very helpful to learn how to use Git to interact with remote repositories on GitHub. I re-learned how to link my remote repository to my local machine through Git. I enjoyed the hands-on session.
