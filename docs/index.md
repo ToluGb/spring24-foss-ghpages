@@ -33,4 +33,4 @@
 
 ### Week 7
 
-* I learned about contanerization using docker. I have some experience using docker but it's been a long time since I last touched it. I look forward to building containerized software in the future.
+* I learned about contanerization using docker. I have some experience using docker but it's been a long time since I last touched it. The hands on session brought back some memories and also gave me an opportunity to learn some new things. I look forward to building containerized software in the future.
