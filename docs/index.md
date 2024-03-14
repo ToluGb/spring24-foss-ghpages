@@ -1,4 +1,4 @@
-# Home Landing Page for FOSS Spring 2024 
+# FOSS Spring 2024 
 
 ## Learnings so far from the FOSS Sessions
 
