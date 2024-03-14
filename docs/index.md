@@ -1,5 +1,7 @@
 # FOSS Spring 2024 
 
+![Jim and Dwight High-five](https://media.giphy.com/media/6FrujVG4mafRETQTal/giphy.gif)
+
 ## Learnings so far from the FOSS Sessions
 
 ### Week 1
@@ -28,3 +30,7 @@
 ### Week 6
 
 * I learned about reproducibility and the importance of doing more of our work on the cloud. We also had a hands-on session trying out Shell on Cyverse. One thing I'm looking forward to is the time when I will need to use Cyverse resources to do my work.
+
+### Week 7
+
+* I learned about contanerization using docker. I have some experience using docker but it's been a long time since I last touched it. I look forward to building containerized software in the future.
